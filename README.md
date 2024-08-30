@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra fazer contato, acesse minhas redes redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/denis_henrique_rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
